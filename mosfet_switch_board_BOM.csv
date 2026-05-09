@@ -1,0 +1,14 @@
+Reference,Qty,Value,Footprint,Datasheet
+"C1,C2",2,1uF,Capacitor_SMD:C_0603_1608Metric,
+"J1,J2",2,Conn_01x03_Pin,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,
+J3,1,Conn_01x09_Pin,Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical,
+"J4,J5",2,Conn_01x01_Pin,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,
+"Q1,Q2",2,IRF4905,Package_TO_SOT_THT:TO-220-3_Vertical,http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c
+Q3,1,BS170,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/BS170-D.PDF
+R1,1,220,Resistor_SMD:R_0603_1608Metric,
+"R2,R3",2,2k,Resistor_SMD:R_0603_1608Metric,
+R4,1,0,Resistor_SMD:R_0603_1608Metric,
+U1,1,TXS0108EPW,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,www.ti.com/lit/ds/symlink/txs0108e.pdf
+U2,1,AP2127K-1.8,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2127.pdf
+U4,1,QTPY-SAMD21-SMD,Library:QTPY-SAMD21-SMD,https://www.adafruit.com/product/4600
+U5,1,AP2112K-1.2,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2112.pdf
